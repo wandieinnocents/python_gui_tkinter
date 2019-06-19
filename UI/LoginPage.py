@@ -6,6 +6,8 @@ from tkinter import ttk
 def main():
 
     root = Tk()
+    root.title("Login Page")
+    root.resizable(True,True)
     #labelUsername
     labelUsername = ttk.Label(root,text="Username: ")
     labelUsername.grid(row=0,column=0)
