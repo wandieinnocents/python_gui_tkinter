@@ -24,6 +24,9 @@ def main():
     inputPassword = ttk.Entry(root, width="100")
     inputPassword.grid(row=1,column=1)
 
+    #covert password to * characters
+    inputPassword.config(show="*")
+
     # button login
     btnLogin= ttk.Button(root, text="Login")
     btnLogin.grid(row=2,column=1)
