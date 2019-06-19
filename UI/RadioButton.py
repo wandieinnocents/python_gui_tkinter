@@ -6,7 +6,9 @@ from tkinter import ttk
 def main():
     root = Tk()
 
-
+    #add checkbox
+    checkBox = ttk.Checkbutton(root,text="Male ?")
+    checkBox.pack()
 
     root.mainloop()
 
