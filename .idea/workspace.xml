@@ -100,10 +100,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UI/LoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="233">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
               <folding>
-                <element signature="e#36#59#0" expanded="true" />
+                <element signature="e#35#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -322,14 +322,35 @@
       <option name="project" value="LOCAL" />
       <updated>1560925436568</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="arrange login page to grid format of default login page">
+      <created>1560927265371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560927265371</updated>
+    </task>
+    <task id="LOCAL-00004" summary="convert password characters to hidden inputs = ******">
+      <created>1560927370548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560927370548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change login frame title and make login page resizable(true/false)">
+      <created>1560927503981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560927503981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.023828436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -351,7 +372,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a frame, and assigning dimensions" />
     <MESSAGE value="frame_completion and creating differents button locations" />
-    <option name="LAST_COMMIT_MESSAGE" value="frame_completion and creating differents button locations" />
+    <MESSAGE value="arrange login page to grid format of default login page" />
+    <MESSAGE value="convert password characters to hidden inputs = ******" />
+    <MESSAGE value="change login frame title and make login page resizable(true/false)" />
+    <option name="LAST_COMMIT_MESSAGE" value="change login frame title and make login page resizable(true/false)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
@@ -426,10 +450,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/LoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="233">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
           <folding>
-            <element signature="e#36#59#0" expanded="true" />
+            <element signature="e#35#56#0" expanded="true" />
           </folding>
         </state>
       </provider>

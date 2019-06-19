@@ -2,6 +2,7 @@
 
 from tkinter import *
 from tkinter import ttk
+from tkinter import messagebox
 
 def main():
 
@@ -37,6 +38,17 @@ def main():
 
     def btnClick():
         print("Username: {} , Password: {}".format(inputUsername.get(),inputPassword.get()))
+
+        #message box to display data
+
+        if(inputUsername.get() == "admin" and inputPassword.get() == "1234"):
+
+             messagebox.showinfo(title="Login Page", message="Welcome to python man")
+
+        else:
+            messagebox.showinfo(title="Login prompt", message="Get outta here, u aint admin")
+
+
 
     #command login button to pick credentials from user !
     btnLogin.config(command=btnClick)
