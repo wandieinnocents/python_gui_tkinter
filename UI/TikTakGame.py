@@ -5,6 +5,11 @@ from tkinter import ttk
 from tkinter import messagebox
 
 
+#Global Variables
+ActivePlayer = 1
+player1 = [] #what player one selected
+player2 = [] #what player two selected
+
 def btnClick(id):
     print("ID: {} ".format(id))
 
