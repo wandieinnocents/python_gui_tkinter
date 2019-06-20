@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cda895b-edd1-4b5e-96f6-e221752ae071" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UI/Game2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/TicketReservation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/TikTakGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI/TikTakGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/TicketReservation.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI/TicketReservation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,8 +112,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UI/TicketReservation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#20#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -213,28 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Game2">
-    <configuration name="Frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonGUIDev" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI/Frame.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.TicketReservation">
     <configuration name="Game2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonGUIDev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,6 +278,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TicketReservation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonGUIDev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI/TicketReservation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TikTakGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonGUIDev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -321,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TicketReservation" />
         <item itemvalue="Python.Game2" />
         <item itemvalue="Python.TikTakGame" />
         <item itemvalue="Python.LoginPage" />
         <item itemvalue="Python.RadioButton" />
-        <item itemvalue="Python.Frame" />
       </list>
     </recent_temporary>
   </component>
@@ -438,14 +439,35 @@
       <option name="project" value="LOCAL" />
       <updated>1561018754655</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Ticket Reservation">
+      <created>1561055106676</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561055106676</updated>
+    </task>
+    <task id="LOCAL-00016" summary="GUI imports">
+      <created>1561055193361</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561055193361</updated>
+    </task>
+    <task id="LOCAL-00017" summary="coding fields and labels">
+      <created>1561056075752</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1561056075752</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27164418" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27164418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -479,7 +501,10 @@
     <MESSAGE value="alternate game players" />
     <MESSAGE value="setting layout , switching players" />
     <MESSAGE value="alternate player symbols on playing" />
-    <option name="LAST_COMMIT_MESSAGE" value="alternate player symbols on playing" />
+    <MESSAGE value="Ticket Reservation" />
+    <MESSAGE value="GUI imports" />
+    <MESSAGE value="coding fields and labels" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding fields and labels" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
@@ -594,8 +619,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/TicketReservation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#20#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
