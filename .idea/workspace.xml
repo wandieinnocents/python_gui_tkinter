@@ -112,10 +112,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UI/TikTakGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="249">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding>
-                <element signature="e#25#46#0" expanded="true" />
+                <element signature="e#24#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -404,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561016992876</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="set up global variables to pick players when they play">
+      <created>1561017302387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561017302387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="alternate game players">
+      <created>1561017974407</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561017974407</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -441,7 +455,9 @@
     <MESSAGE value="add check box and pack() it to view" />
     <MESSAGE value="call button click of btn1 of game.." />
     <MESSAGE value="replicating 9 buttons to be used in game.." />
-    <option name="LAST_COMMIT_MESSAGE" value="replicating 9 buttons to be used in game.." />
+    <MESSAGE value="set up global variables to pick players when they play" />
+    <MESSAGE value="alternate game players" />
+    <option name="LAST_COMMIT_MESSAGE" value="alternate game players" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
@@ -536,10 +552,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/TikTakGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="249">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
-            <element signature="e#25#46#0" expanded="true" />
+            <element signature="e#24#48#0" expanded="true" />
           </folding>
         </state>
       </provider>

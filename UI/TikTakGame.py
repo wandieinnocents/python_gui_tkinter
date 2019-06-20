@@ -31,12 +31,42 @@ def btnClick(id):
 
 
 
-
-
+# layout function
 def SetLayout(id,PlayerSymbol):
+
+    if(id==1):
+        btn1.config(text=PlayerSymbol)
+        btn1.state(['disabled'])
+    elif id==2:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==3:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==4:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==5:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==6:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==7:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==8:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+    elif id==9:
+        btn2.config(text=PlayerSymbol)
+        btn2.state(['disabled'])
+
+
 
 
     print("ID: {} ".format(id))
+
 
 
 def main():
