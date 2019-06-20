@@ -16,6 +16,8 @@ def btnClick(id):
     global ActivePlayer
     global player1
     global player2
+
+    #alternate player symbols on playing
     if(ActivePlayer == 1):
         SetLayout(id,"X")
         player1.append(id)
@@ -41,26 +43,26 @@ def SetLayout(id,PlayerSymbol):
         btn2.config(text=PlayerSymbol)
         btn2.state(['disabled'])
     elif id==3:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn3.config(text=PlayerSymbol)
+        btn3.state(['disabled'])
     elif id==4:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn4.config(text=PlayerSymbol)
+        btn4.state(['disabled'])
     elif id==5:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn5.config(text=PlayerSymbol)
+        btn5.state(['disabled'])
     elif id==6:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn6.config(text=PlayerSymbol)
+        btn6.state(['disabled'])
     elif id==7:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn7.config(text=PlayerSymbol)
+        btn7.state(['disabled'])
     elif id==8:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn8.config(text=PlayerSymbol)
+        btn8.state(['disabled'])
     elif id==9:
-        btn2.config(text=PlayerSymbol)
-        btn2.state(['disabled'])
+        btn9.config(text=PlayerSymbol)
+        btn9.state(['disabled'])
 
 
 

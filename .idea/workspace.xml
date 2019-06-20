@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cda895b-edd1-4b5e-96f6-e221752ae071" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/TikTakGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI/TikTakGame.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,8 +111,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UI/TikTakGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="510">
+              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
               <folding>
                 <element signature="e#24#48#0" expanded="true" />
               </folding>
@@ -143,6 +142,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wandieinnocents &lt;wandieinnocent2@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -418,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561017974407</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="setting layout , switching players">
+      <created>1561018565103</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561018565103</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -457,7 +468,8 @@
     <MESSAGE value="replicating 9 buttons to be used in game.." />
     <MESSAGE value="set up global variables to pick players when they play" />
     <MESSAGE value="alternate game players" />
-    <option name="LAST_COMMIT_MESSAGE" value="alternate game players" />
+    <MESSAGE value="setting layout , switching players" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting layout , switching players" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
@@ -552,8 +564,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/TikTakGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="510">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
           <folding>
             <element signature="e#24#48#0" expanded="true" />
           </folding>
