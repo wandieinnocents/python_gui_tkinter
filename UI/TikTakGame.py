@@ -17,6 +17,7 @@ def main():
     #add button
     btn1 = ttk.Button(root,text='')
     btn1.grid(row=0,column=0,sticky='snew',ipadx='40',ipady='40')
+    #call button click to refelect id: on click
     btn1.config(command=lambda :btnClick(1))
 
 
