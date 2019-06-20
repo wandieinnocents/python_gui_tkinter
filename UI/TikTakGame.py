@@ -1,5 +1,5 @@
 #python tikTak toy game
-
+from logging import root
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
@@ -11,6 +11,31 @@ player1 = [] #what player one selected
 player2 = [] #what player two selected
 
 def btnClick(id):
+
+    #import global variables
+    global ActivePlayer
+    global player1
+    global player2
+    if(ActivePlayer == 1):
+        SetLayout(id,"X")
+        player1.append(id)
+        root.title("Tic Tac palyer 2:")
+        ActivePlayer =2
+        print("Player 1: {}".format(player1))
+    elif(ActivePlayer == 2):
+        SetLayout(id, "O")
+        player2.append(id)
+        root.title("Tic Tac palyer 1:")
+        ActivePlayer = 1
+        print("Player 1: {}".format(player1))
+
+
+
+
+
+def SetLayout(id,PlayerSymbol):
+
+
     print("ID: {} ".format(id))
 
 
