@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cda895b-edd1-4b5e-96f6-e221752ae071" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/TicketReservation.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI/TicketReservation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,8 +111,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UI/TicketReservation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="300">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#20#41#0" expanded="true" />
               </folding>
@@ -460,11 +459,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561056075752</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="resizing comments box and working on grids">
+      <created>1561056314736</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1561056314736</updated>
+    </task>
+    <task id="LOCAL-00019" summary="..">
+      <created>1561096742090</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1561096742090</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27164418" />
@@ -504,7 +517,9 @@
     <MESSAGE value="Ticket Reservation" />
     <MESSAGE value="GUI imports" />
     <MESSAGE value="coding fields and labels" />
-    <option name="LAST_COMMIT_MESSAGE" value="coding fields and labels" />
+    <MESSAGE value="resizing comments box and working on grids" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
@@ -619,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/TicketReservation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="300">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#20#41#0" expanded="true" />
           </folding>
